@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">NOVACUTS Business</string>
+ 	<string name="barber_business_code">novacuts_luis_barbershop</string>
+    <string name="app_shop_name">Luis Corner Barber Shop</string>
+    <string name="barber">Barber</string>
+    
+    <string name="na">N/A</string>
+     <string name="na_phone">5555555555</string>
+    <string name="call">call</string>
+    <string name="description">Description</string>
+	<string name="open">Open Now!</string>
+	<string name="close">Close</string>
+	<string name="closed">We are Closed</string>
+	<string name="closed_2">Closed</string>
+	<string name="business_hours">Business Hours</string>
+	<string name="hr24">24 Hours</string>
+	<string name="appointment">Appointment</string>
+</resources>

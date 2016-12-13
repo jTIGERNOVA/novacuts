@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="d1_rightmargin">5dp</dimen>
+    <dimen name="d1_leftmargin">5dp</dimen>
+    <dimen name="d1_topmargin">5dp</dimen>
+    <dimen name="d1_margin">10dp</dimen>
+    <dimen name="d1_sep">2dp</dimen>
+    <dimen name="d1_border">2dp</dimen>
+    <dimen name="d1_border_margin">2dp</dimen>
+    <dimen name="d1_barber_margin">5dp</dimen>
+    <dimen name="d1_barber_comp_width">120dp</dimen>
+    <dimen name="d1_barber_icon_width">100dp</dimen>
+    <dimen name="d1_shop_icon_width">90dp</dimen>
+    <dimen name="d1_shop_icon_height">90dp</dimen>
+    <dimen name="d1_barber_highlight_margin">10dp</dimen>
+    <dimen name="d1_barber_name_margin">1dp</dimen>
+    <dimen name="d1_barber_dialog_logo_width">220dp</dimen>
+    <dimen name="d2_topmargin">5dp</dimen>
+    <dimen name="d2_leftmargin">5dp</dimen>
+    <dimen name="component_padding">5dp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_large">25sp</dimen>
+    <dimen name="font_xlarge">30sp</dimen>
+    <dimen name="font_xxlarge">35sp</dimen>
+
+</resources>

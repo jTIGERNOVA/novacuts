@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#EEE9E9</color>
+    <color name="smoke">#9FB6CD</color>
+    <color name="dark_green">#07DB07</color>
+    <color name="blue">#00009C</color>
+    <color name="novaCalcBackground">#DDE5EE</color>
+    <color name="home_header_background">#436CAF</color>
+    <color name="home_header_textcolor">#ffffff</color>
+    <color name="novaCalcColor">#3299CC</color>
+    <color name="component_color">#EEE9E9</color>
+    <color name="component_color2">#00009C</color>
+    <color name="registration_container_background">#133F5D</color>
+    <color name="registration_background">#E6E6E0</color>
+    <color name="registration_button_background">#E6E6E0</color>
+    <color name="registration_button_text">#4167B1</color>
+    <color name="skin_color">#016BAB</color>
+    <color name="button_color">#D6B687</color>
+    <color name="button_color_p">#b49971</color>
+    <color name="button_color3">#F0F0F0</color>
+    <color name="button_color3_p">#d6d6d6</color>
+    <color name="money_color">#14E914</color>
+    <color name="text_color_bk_p">#d6d6d6</color>
+
+</resources>
