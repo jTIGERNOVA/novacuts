@@ -1,12 +1,12 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "23.0.1"
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 25
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
@@ -16,14 +16,21 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
     compile files('libs/jtiger.webinterface.java1-5.jar')
     compile project(':actionbarsherlock')
     compile files('libs/jtiger.webinterface.android.jar')
     compile files('libs/jtiger.util.jar')
     compile files('libs/jtiger.util.android.jar')
     compile files('libs/jtiger.ui.android.jar')
+    compile files('libs/jtiger.support.ws.1.0.jar')
+    compile files('libs/json-me.jar')
+    compile files('libs/joda-time-2.2.jar')
+    compile files('libs/joda-convert-1.2.jar')
 }
